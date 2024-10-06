@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Archi
+Version=1.0
+Exec=Archi
+Terminal=false
+Type=Application
+Icon=com.archimatetool.archi
+Categories=Development;
+StartupNotify=true
+StartupWMClass=Archi
