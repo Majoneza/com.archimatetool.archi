@@ -9,7 +9,7 @@ This repo hosts the flatpak wrapper for [Archi](https://www.archimatetool.com/).
 1) Clone the git repo and navigate into it
 
 ```bash
-git clone github.com/Majoneza/com.archimatetool.archi archi
+git clone https://github.com/Majoneza/com.archimatetool.archi archi
 cd archi
 ```
 
